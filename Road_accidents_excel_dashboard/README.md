@@ -8,6 +8,10 @@ The scope of the project was to clean and process the data and answer following 
 
 The project started with some data cleaning where, missing values were dropped, then entries corresponding to "Fetal" were changed to "Fatal". The date was then separated into month and year. Also, entries corresponding to different types of motocylces were clubbed as "bike". At this point the data was ready to be analyzed. Pivot table were then created to figure out total casualties and accidents by their nature. Additional pivolt tables were created to find out total accidents by "vehicle type". Finally, accidents dependence on light and road conditions was also analyzed using pivot tables. Once these pivot tables were in place, visualizations were created so as to convey the findings visullay. All of this project was done using excel.
 
-The figure below shows the findings from the dataset.
+The two figures below show the findings from the dataset and all the pivot tables created. Unfortunately, the full excel sheet was 55 mb and couldn't be uploaded to GitHub.
 
-<img width="1129" alt="Screenshot 2023-07-19 at 6 12 29 PM" src="https://github.com/mayank8893/Road_accidents_excel_dashboard/assets/69361645/3564133b-e2fe-40ab-a524-98d9d2ba8547">
+<img width="1131" alt="Screenshot 2023-07-19 at 6 40 46 PM" src="https://github.com/mayank8893/Road_accidents_excel_dashboard/assets/69361645/041a6c70-1546-4fad-9669-794646d8e8c4">
+
+
+
+<img width="964" alt="Screenshot 2023-07-19 at 6 39 55 PM" src="https://github.com/mayank8893/Road_accidents_excel_dashboard/assets/69361645/bd0c92a4-9b2d-4169-9752-728d6f8d78fb">
