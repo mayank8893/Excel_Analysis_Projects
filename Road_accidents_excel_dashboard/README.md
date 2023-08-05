@@ -10,8 +10,6 @@ The project started with some data cleaning where, missing values were dropped, 
 
 The two figures below show the findings from the dataset and all the pivot tables created. Unfortunately, the full excel sheet was 55 mb and couldn't be uploaded to GitHub.
 
-<img width="1131" alt="Screenshot 2023-07-19 at 6 40 46 PM" src="https://github.com/mayank8893/Road_accidents_excel_dashboard/assets/69361645/041a6c70-1546-4fad-9669-794646d8e8c4">
 
-
-
-<img width="964" alt="Screenshot 2023-07-19 at 6 39 55 PM" src="https://github.com/mayank8893/Road_accidents_excel_dashboard/assets/69361645/bd0c92a4-9b2d-4169-9752-728d6f8d78fb">
+<img width="1111" alt="Screenshot 2023-08-05 at 8 40 00 AM" src="https://github.com/mayank8893/Excel_Analysis_Projects/assets/69361645/bbe10e47-62d5-472c-8383-7ad08ccd6e32">
+<img width="973" alt="Screenshot 2023-08-05 at 8 40 20 AM" src="https://github.com/mayank8893/Excel_Analysis_Projects/assets/69361645/ee958b35-0ed9-4885-ba3a-e8e843bca6da">
