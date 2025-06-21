@@ -1,14 +1,40 @@
-# Road_accidents_excel_dashboard
-The data for this project came from kaggle. The dataset had information about the road accidents, distinguishing between fatal, serious and minor. In addition the dataset contained information about the vehicle type, time of accident, the road type and conditions as well as whether the accidents happened in rural/urban area and if they happened during day or night.
+## Road Accidents Excel Dashboard
 
-The scope of the project was to clean and process the data and answer following questions:
-1) Separate accidents by their seriousness.
-2) Separate accidents by vehiche type, area.
-3) Also, look for insights into light and road conditions and number of accidents.
+This project uses a publicly available dataset from **Kaggle** that contains detailed information on road accidents — including severity (fatal, serious, minor), vehicle types, time of accident, road conditions, and whether the accident occurred in a rural or urban area, during day or night.
 
-The project started with some data cleaning where, missing values were dropped, then entries corresponding to "Fetal" were changed to "Fatal". The date was then separated into month and year. Also, entries corresponding to different types of motocylces were clubbed as "bike". At this point the data was ready to be analyzed. Pivot table were then created to figure out total casualties and accidents by their nature. Additional pivolt tables were created to find out total accidents by "vehicle type". Finally, accidents dependence on light and road conditions was also analyzed using pivot tables. Once these pivot tables were in place, visualizations were created so as to convey the findings visullay. All of this project was done using excel.
+The goal was to clean, process, and analyze this data to uncover meaningful patterns and trends using Excel.
 
-The two figures below show the findings from the dataset and all the pivot tables created. Unfortunately, the full excel sheet was 55 mb and couldn't be uploaded to GitHub.
+
+### Key Questions Explored:
+
+1. How are accidents distributed by severity (fatal, serious, minor)?
+2. What types of vehicles are most commonly involved in accidents, and how does this vary by area (urban/rural)?
+3. How do light and road conditions impact the number of accidents?
+
+
+### Data Cleaning & Preparation:
+
+- Dropped rows with missing values  
+- Corrected data entry issues (`"Fetal"` → `"Fatal"`)  
+- Split date into **month** and **year** columns  
+- Grouped various types of motorcycles under a single `"Bike"` category  
+
+Once cleaned, the dataset was ready for analysis.
+
+
+### Analysis & Visualization:
+
+- Created pivot tables to explore:
+  - Total casualties and accidents by severity  
+  - Accidents by vehicle type  
+  - Distribution of accidents across different light and road conditions  
+
+- Built charts in Excel to visually communicate key insights derived from the pivot tables
+
+All analysis and visualizations were done using **Microsoft Excel**.
+
+> ⚠️ The full Excel workbook was too large to upload to GitHub (55 MB), so only visuals are shared below.
+
 
 
 <img width="1111" alt="Screenshot 2023-08-05 at 8 40 00 AM" src="https://github.com/mayank8893/Excel_Analysis_Projects/assets/69361645/bbe10e47-62d5-472c-8383-7ad08ccd6e32">
