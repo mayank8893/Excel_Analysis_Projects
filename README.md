@@ -1,3 +1,4 @@
-# Excel_Analysis_Projects
+# Excel Analysis Projects
 
-This repository contains some of my Excel projects done using MS Excel. Go to the project folders and see the readme for detailed instructions about the projects.
+This repository showcases several Excel projects I have completed using Microsoft Excel. Explore the individual project folders and refer to their README files for detailed instructions and project descriptions.
+
