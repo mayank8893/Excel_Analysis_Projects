@@ -1,6 +1,13 @@
-# Ecommerce_sales_analysis_using_Excel
+# Ecommerce Sales Analysis Using Excel
 
-For this project, I have looked at ecommerce sales analysis in USA using Excel. The data had information on month of sale, sale amount, profit amount, quantity, number of orders, category of sale and state of sale. I have created **key performace indicators (KPI)** in the form of total sales, profit, quantity, orders and profit margin. I have also **calculated year over year growth** of these KPIs. For secondary indicators, I have shown **sales and profit as a function of month**, noting that September, November and December are the best performing months. I have also **calculated profits by category** and found that technology items give the maximum profit. I have also **shown sales by state** and found that California, New York and Texas are three states with most sales. Finally I have provided a **slicer to filter out the dashboard** as per the users needs. Please see the Ecommerce_Sales_Analysis.xlsx for the **data, pivot tables and dashboard**.
+This project involves analyzing ecommerce sales data in the USA using Excel. The dataset includes information on the month of sale, sales amount, profit, quantity sold, number of orders, sales category, and state.
+
+Key performance indicators (KPIs) such as total sales, total profit, quantity sold, number of orders, and profit margin were created to provide a comprehensive overview of performance. Year-over-year growth was also calculated for these KPIs to track trends over time.
+
+For secondary insights, sales and profit trends were analyzed by month, revealing that September, November, and December are the top-performing months. Profitability by category was examined, highlighting that technology products generate the highest profits. Additionally, sales by state were reviewed, with California, New York, and Texas identified as the leading states in sales volume.
+
+A user-friendly slicer was included to allow interactive filtering of the dashboard according to user preferences. The accompanying Excel file, *Ecommerce_Sales_Analysis.xlsx*, contains the data, pivot tables, and dashboard.
+
 
 
 
